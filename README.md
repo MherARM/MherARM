@@ -1,5 +1,5 @@
-- 👀 I’m interested in AI ,web development  and  game development.  
-- 🌱 I’m currently learning React.js,Node.js  and python.  
+- 👀 I’m interested in web development  .  
+- 🌱 I’m currently learning Javascript.  
 - 💞️ I’m looking to collaborate on open-source projects.  
 - 📫 How to reach me:  aryucmher6@gmil.com  .  
 - 😄 Pronouns: He/Him.  
